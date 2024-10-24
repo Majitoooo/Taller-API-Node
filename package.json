@@ -19,6 +19,7 @@
   "author": "Maria José Cordón Vasco",
   "license": "ISC",
   "dependencies": {
+    "dayjs": "^1.11.13",
     "express": "^4.21.1",
     "joi": "^17.13.3",
     "nodemailer": "^6.9.15",
